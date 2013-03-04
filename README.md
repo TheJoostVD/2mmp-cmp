@@ -1,1 +1,3 @@
-Awesome cmpub project!
+# Super awesome cmpub project!
+
+Cool new cmpub project!
